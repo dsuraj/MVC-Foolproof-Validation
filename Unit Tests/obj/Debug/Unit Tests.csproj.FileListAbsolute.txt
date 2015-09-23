@@ -1,0 +1,21 @@
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\MVC Foolproof Validation Unit Tests.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\MVC Foolproof Validation Unit Tests.pdb
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\MVC Foolproof Validation.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.Helpers.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.Mvc.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.Razor.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.WebPages.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\MVC Foolproof Validation.pdb
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.Helpers.xml
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.Mvc.xml
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.Razor.xml
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.WebPages.xml
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\obj\Debug\MVC Foolproof Validation Unit Tests.dll
+C:\Projects\MVC-Foolproof-Validation\Unit Tests\obj\Debug\MVC Foolproof Validation Unit Tests.pdb

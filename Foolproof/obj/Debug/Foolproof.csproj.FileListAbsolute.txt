@@ -1,0 +1,18 @@
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\MVC Foolproof Validation.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\MVC Foolproof Validation.pdb
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.Helpers.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.Mvc.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.Razor.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.WebPages.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.Helpers.xml
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.Mvc.xml
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.Razor.xml
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.WebPages.xml
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\MVC-Foolproof-Validation\Foolproof\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\MVC-Foolproof-Validation\Foolproof\obj\Debug\Foolproof.csprojResolveAssemblyReference.cache
+C:\Projects\MVC-Foolproof-Validation\Foolproof\obj\Debug\MVC Foolproof Validation.dll
+C:\Projects\MVC-Foolproof-Validation\Foolproof\obj\Debug\MVC Foolproof Validation.pdb
